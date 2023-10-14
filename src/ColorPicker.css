@@ -1,0 +1,16 @@
+/* ColorPicker.css */
+
+.color-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .color-item {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  
